@@ -1,0 +1,28 @@
+2-12-24
+
+typescript:-
+
+-it is super set of js
+-it is compile languages
+-it is strict typed languages
+
+*how to know ts is available or not
+*how to insatll typescript
+
+npm i -g typescript // to install typescript
+tsc -v //check typescrit version
+
+* how to execute typescript file
+npx tsc filename.ts  //
+
+
+oops:-
+1-class: 
+-it is collection of data-member and memeber function.
+-it is template which we can re-use
+-to create class we use keyword.
+reuse the template
+
+---constructor: it is special member function of class
+            - it will execute  automatically when class object get created or initialised
+            - in ts constructor name must only constructor
